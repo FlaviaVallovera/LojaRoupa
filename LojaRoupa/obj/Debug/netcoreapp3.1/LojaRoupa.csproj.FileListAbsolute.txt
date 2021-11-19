@@ -1,0 +1,14 @@
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.exe
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.deps.json
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.runtimeconfig.json
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.runtimeconfig.dev.json
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.dll
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\bin\Debug\netcoreapp3.1\LojaRoupa.pdb
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.csproj.AssemblyReference.cache
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.AssemblyInfo.cs
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.dll
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.pdb
+C:\Users\flavi\source\repos\LojaRoupa\LojaRoupa\obj\Debug\netcoreapp3.1\LojaRoupa.genruntimeconfig.cache
